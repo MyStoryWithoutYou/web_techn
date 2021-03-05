@@ -1,3 +1,16 @@
 .center { 
     text-align: center; 
 }
+
+#counter{
+    font-size: 100px;
+    margin-bottom: 10px;
+}
+
+.button{
+    border: 1px solid #0a3c59;
+    width: 75px;
+    height: 50px;
+    font-family: helvetica, serif;
+    font-size: 17px;
+}
